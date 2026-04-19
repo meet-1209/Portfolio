@@ -44,23 +44,9 @@ const About = () => {
 
         <div className={`about-content ${isVisible ? 'animate-slide-left-container' : ''}`}>
           <h2 className="section-title">About <span>Me</span></h2>
-          <h3 className="subtitle">Full Stack Developer!</h3>
+          <h3 className="subtitle">Frontend Developer!</h3>
           <p className="about-text">
-            I am a dedicated and passionate Full Stack Developer with over 3 years of experience
-            in creating dynamic and responsive web applications. My journey in web development
-            started with a curiosity about how websites work, which quickly evolved into a
-            deep passion for coding and problem-solving.
-          </p>
-          <p className="about-text">
-            I have expertise in both frontend and backend technologies, allowing me to build
-            complete solutions from concept to deployment. My frontend skills include React,
-            JavaScript, HTML5, CSS3, and modern frameworks, while my backend experience covers
-            Node.js, Python, and database management.
-          </p>
-          <p className="about-text">
-            I believe in writing clean, maintainable code and staying up-to-date with the latest
-            industry trends. My goal is to create user-centric applications that not only look
-            great but also provide exceptional performance and usability.
+            I am a Frontend Developer with a strong understanding of HTML, CSS, JavaScript, Bootstrap, and React. As a fresher, I focus on building responsive and user-friendly web applications with clean and well-structured code. I enjoy working on modern UI designs and converting them into functional interfaces that perform smoothly across different devices. Along with frontend development, I am also exploring backend technologies and have a basic understanding of database management using SQL. I am continuously improving my skills by learning new concepts and working on practical projects. I am a quick learner, adaptable, and always ready to take on new challenges. My goal is to grow as a developer while contributing effectively to real-world projects and delivering quality work.
           </p>
 
           <button
